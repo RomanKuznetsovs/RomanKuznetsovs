@@ -40,10 +40,8 @@
   <a href = "https://nodejs.org/ru/">
   <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=grey" alt="node.js Badge"/>
 </div>
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="200"/>
-</div>
+    
+   ![](https://komarev.com/ghpvc/?username=RomanKuznetsovs&color=blue)
 
 
 <!--
