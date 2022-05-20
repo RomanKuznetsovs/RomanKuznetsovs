@@ -1,7 +1,14 @@
 <div id="header" align="center">
   <h2>Solidity developer</h2>
 </div>
+</hr>
 
+
+<div id="badges">
+  <a href = "">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <!--
 **RomanKuznetsovs/RomanKuznetsovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/view/today-be-better-be-better-than-you-were-yesterday-quotes-clouds-gif-12272936" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/view/today-be-better-be-better-than-you-were-yesterday-quotes-clouds-gif-12272936](https://tenor.com/view/today-be-better-be-better-than-you-were-yesterday-quotes-clouds-gif-12272936" width="100"/>
 </div>
