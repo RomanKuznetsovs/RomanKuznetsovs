@@ -3,16 +3,16 @@
 </div>
 </hr>
 
-<h6>ndgfkdsgakdshfdudsaflubdsaflubdsal</h6>
+<h6>A starting solidity developer, I study the technologies listed below. In my profile you can see examples of the tasks that I study.</h6>
 
 <div id="header" align="center">
   <h6>📫 How to reach me:</h6>
 </div>
 <div id="badges" align="center">
-  <a href = "">
+  <a href = "https://www.linkedin.com/in/roman-kuznetsov-57baa7228">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href = "">
+   <a href = "https://telegram.me/Roman_Kuznets">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
