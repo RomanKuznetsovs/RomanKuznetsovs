@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <h2>Solidity developer</h2>
+</div>
 
 <!--
 **RomanKuznetsovs/RomanKuznetsovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a class="button" href="nowhere.html">LINKED.IN</a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://tenor.com/view/today-be-better-be-better-than-you-were-yesterday-quotes-clouds-gif-12272936" width="100"/>
+</div>
