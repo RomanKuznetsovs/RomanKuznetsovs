@@ -15,3 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a class="button" href="nowhere.html">Кнопка один</a>
+
+.button:link,               
+.button:visited {           
+  display: block;           
+  text-decoration: none; 
+
+    color: #FFF;
+    background-color: #29fd2f;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #0b24fb;
+    border-radius: 5px;
+  
+    width: 200px;
+    margin: 20px auto;
+  }
