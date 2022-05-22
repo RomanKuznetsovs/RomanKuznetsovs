@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/ethers.js-black?style=for-the-badge&logo=ethers.js&logoColor=red" alt="Ethers.js Badge"/>
   <a href = "https://nodejs.org/ru/">
   <img src="https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=grey" alt="node.js Badge"/>
-</div>
+</div></br>
     
    ![](https://komarev.com/ghpvc/?username=RomanKuznetsovs&color=blue)
 
